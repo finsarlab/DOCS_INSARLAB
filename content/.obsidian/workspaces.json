@@ -1754,7 +1754,7 @@
                 "id": "fd0242bfbf85395b",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "kanban",
                   "state": {
                     "file": "400 TODO/430 KANBANS/Kanban - Sanando el Alma - Consolidación del Capítulo 1.md",
                     "mode": "source",
@@ -1948,17 +1948,138 @@
                 }
               },
               {
-                "id": "8c510e14a0645202",
+                "id": "a467e8a9cfdbdd2d",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/14-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "14-10-2026"
+                }
+              },
+              {
+                "id": "2e8fe19e6d626964",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "200 FUERTE/♠Read/BASE READ.base",
+                    "viewName": "BIBLIOTECA"
+                  },
+                  "icon": "lucide-layout-grid",
+                  "title": "BASE READ"
+                }
+              },
+              {
+                "id": "e48b3136aa934cc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IA. A Modern Approach (Artificial Intelligence. A modern approach).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IA. A Modern Approach (Artificial Intelligence. A modern approach)"
+                }
+              },
+              {
+                "id": "576ad2ddf78e20f2",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Siscom/10 About/Kanban - Siscom.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Siscom"
+                }
+              },
+              {
+                "id": "1c3f97187af08ca6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VPN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "VPN"
+                }
+              },
+              {
+                "id": "72a83b99debdd543",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/Kanban - IA.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - IA"
+                }
+              },
+              {
+                "id": "95d5f9ff98ce0d49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/15-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "15-10-2026"
+                }
+              },
+              {
+                "id": "918feb2037cd4e0b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Relato de Diegod.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Relato de Diegod"
                 }
               }
             ],
-            "currentTab": 13
+            "currentTab": 19
           }
         ],
         "direction": "vertical"
@@ -2042,8 +2163,7 @@
                   "title": "Timer"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -2133,6 +2253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/15-10-2026.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2184,7 +2305,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 454.5
+        "width": 454.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2208,22 +2330,16 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "8c510e14a0645202",
-      "mtime": "2026-10-13T16:50:17-06:00",
+      "active": "95d5f9ff98ce0d49",
+      "mtime": "2026-10-15T19:17:41-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "100 ACADEMIC/7° Semestre",
-          "100 ACADEMIC/7° Semestre/VLSI",
-          "100 ACADEMIC/7° Semestre/VLSI/40 Legend",
-          "200 FUERTE",
           "400 TODO",
           "400 TODO/410 GB",
           "400 TODO/410 GB/♠Great Binnacle",
           "400 TODO/410 GB/♠Great Binnacle/Sesiones",
-          "400 TODO/430 KANBANS",
-          "800 TUNEL",
-          "Excalidraw",
-          "Excalidraw/Anexos"
+          "Sobre el Cluster y Slurm",
+          "Sobre el Cluster y Slurm/Anexos"
         ]
       }
     },
@@ -4416,21 +4532,6 @@
                 }
               },
               {
-                "id": "ab4c9016035f5ad8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sobre el Cluster y Slurm/Instalación.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Instalación"
-                }
-              },
-              {
                 "id": "510f51e63a45446e",
                 "type": "leaf",
                 "state": {
@@ -4446,7 +4547,51 @@
                 }
               },
               {
-                "id": "054834de30a30973",
+                "id": "8ddc95445aa4df94",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/Servicio Social/10 About/Kanban - SSI.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        true,
+                        null,
+                        false,
+                        true,
+                        null,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - SSI"
+                }
+              },
+              {
+                "id": "a8b0af9b417cfab9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Máscara.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Máscara"
+                }
+              },
+              {
+                "id": "5e3eb16aa2a060d3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -4459,34 +4604,9 @@
                   "icon": "lucide-file",
                   "title": "SSI - NOTAS DE SESIÓN"
                 }
-              },
-              {
-                "id": "f7b908c58e846686",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SSI S5 Regularizandome en la Instalación.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "SSI S5 Regularizandome en la Instalación"
-                }
-              },
-              {
-                "id": "cbc0ccb303e3f90f",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -4739,8 +4859,8 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "cbc0ccb303e3f90f",
-      "mtime": "2026-09-17T17:06:15-06:00",
+      "active": "5e3eb16aa2a060d3",
+      "mtime": "2026-10-13T23:23:27-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "100 ACADEMIC",
@@ -6099,7 +6219,642 @@
           "400 TODO/410 GB/♠Great Binnacle/Sesiones"
         ]
       }
+    },
+    "LITE": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f7becdef3f2379f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "177a8648a79542de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/40 Legend/AI - NOTAS DE SESIÓN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "abe82865d735772f",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - ENTHRALL.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - ENTHRALL"
+                }
+              },
+              {
+                "id": "9cdeef4f6698a539",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/Cuando caiga la última jacaranda (Buscando mi identidad).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cuando caiga la última jacaranda (Buscando mi identidad)"
+                }
+              },
+              {
+                "id": "fd0242bfbf85395b",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - Sanando el Alma - Consolidación del Capítulo 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kanban - Sanando el Alma - Consolidación del Capítulo 1"
+                }
+              },
+              {
+                "id": "b26e0b4f5c5055b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/13-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13-10-2026"
+                }
+              },
+              {
+                "id": "60e884b9ede16b36",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              },
+              {
+                "id": "d3816e0ce1d09e98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/30 Sesiones/Lab 2/Lab 2. Search Algorithms.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lab 2. Search Algorithms"
+                }
+              },
+              {
+                "id": "2252df4091e06dc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/13-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13-10-2026"
+                }
+              },
+              {
+                "id": "1740ae0dde448277",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "800 TUNEL/- ( F ) - (HOMEPAGE).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "- ( F ) - (HOMEPAGE)"
+                }
+              },
+              {
+                "id": "3e6232e2b4224b09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/♠Academic.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "♠Academic"
+                }
+              },
+              {
+                "id": "b4ab7d243d1e3605",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              },
+              {
+                "id": "2fb9658fb521b932",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban -  Programación.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        true,
+                        null,
+                        false,
+                        null,
+                        null,
+                        false,
+                        null,
+                        true,
+                        null,
+                        false,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban -  Programación"
+                }
+              },
+              {
+                "id": "a77ac6442a2c3e14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/TRINITY_ELEMENTS/-(°)MODELOS/►Proceso creativo - Proyectos artísticos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "►Proceso creativo - Proyectos artísticos"
+                }
+              },
+              {
+                "id": "f7245c600cc7c492",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/TRINITY_ELEMENTS/-(°)MODELOS/►Proceso creativo - Proyectos artísticos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "►Proceso creativo - Proyectos artísticos"
+                }
+              }
+            ],
+            "currentTab": 13
+          },
+          {
+            "id": "c751a2088eacd1f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb07f79f408c7dad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ETH - Laberinto de la soledad.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ETH - Laberinto de la soledad"
+                }
+              },
+              {
+                "id": "103ff67596be76d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "600 CALENDAR/Avance en el Fuerte {W41}.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Avance en el Fuerte {W41}"
+                }
+              },
+              {
+                "id": "855e8a9572283651",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "600 CALENDAR/Anexos/IMG - Identidad de Fernando Samuel.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "IMG - Identidad de Fernando Samuel"
+                }
+              },
+              {
+                "id": "935df71bd067b6bb",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "600 CALENDAR/Anexos/IMG - Antimáquina formidable.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "IMG - Antimáquina formidable"
+                }
+              },
+              {
+                "id": "aecd3fd619eb04c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/Principios (Quien soy, Identidad).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Principios (Quien soy, Identidad)"
+                }
+              },
+              {
+                "id": "fd88e2fc8d3b8e4c",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - ♠WiD.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        null,
+                        null
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - ♠WiD"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "venv",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "200 FUERTE/Principios (Quien soy, Identidad).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "aecd3fd619eb04c4",
+      "mtime": "2026-10-14T01:57:27-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "200 FUERTE",
+          "200 FUERTE/♠BrainOut",
+          "200 FUERTE/♠BrainOut/♠BO - ☼First Rise",
+          "200 FUERTE/♠BrainOut/♠BO - ☼First Rise/♠BO - Matemáticas Pre-Universitarias",
+          "400 TODO",
+          "400 TODO/410 GB",
+          "400 TODO/410 GB/♠Great Binnacle",
+          "400 TODO/410 GB/♠Great Binnacle/Sesiones",
+          "400 TODO/430 KANBANS"
+        ]
+      }
     }
   },
-  "active": "SSI"
+  "active": "FIN"
 }
