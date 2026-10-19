@@ -1696,24 +1696,390 @@
         "type": "split",
         "children": [
           {
-            "id": "e23aef7d5cdb167e",
+            "id": "1f7becdef3f2379f",
             "type": "tabs",
             "children": [
               {
-                "id": "732fa0b9535df5dd",
+                "id": "177a8648a79542de",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/21-04-2026.md",
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/40 Legend/AI - NOTAS DE SESIÓN.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "21-04-2026"
+                  "title": "AI - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "abe82865d735772f",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - ENTHRALL.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - ENTHRALL"
+                }
+              },
+              {
+                "id": "9cdeef4f6698a539",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/Cuando caiga la última jacaranda (Buscando mi identidad).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cuando caiga la última jacaranda (Buscando mi identidad)"
+                }
+              },
+              {
+                "id": "fd0242bfbf85395b",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - Sanando el Alma - Consolidación del Capítulo 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kanban - Sanando el Alma - Consolidación del Capítulo 1"
+                }
+              },
+              {
+                "id": "b26e0b4f5c5055b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/13-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13-10-2026"
+                }
+              },
+              {
+                "id": "60e884b9ede16b36",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              },
+              {
+                "id": "d3816e0ce1d09e98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/30 Sesiones/Lab 2/Lab 2. Search Algorithms.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lab 2. Search Algorithms"
+                }
+              },
+              {
+                "id": "2252df4091e06dc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/TRINITY_ELEMENTS/-(°)MODELOS/►Proceso creativo - Proyectos artísticos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "►Proceso creativo - Proyectos artísticos"
+                }
+              },
+              {
+                "id": "1740ae0dde448277",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/TRINITY_ELEMENTS/-(°)MODELOS/►Proceso creativo - composición rápida.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "►Proceso creativo - composición rápida"
+                }
+              },
+              {
+                "id": "3e6232e2b4224b09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/♠Academic.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "♠Academic"
+                }
+              },
+              {
+                "id": "b4ab7d243d1e3605",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              },
+              {
+                "id": "c0027357bb8a8907",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/Kanban - IA.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - IA"
+                }
+              },
+              {
+                "id": "2fb9658fb521b932",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban -  Programación.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        true,
+                        null,
+                        false,
+                        null,
+                        null,
+                        false,
+                        null,
+                        true,
+                        null,
+                        false,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban -  Programación"
+                }
+              },
+              {
+                "id": "a467e8a9cfdbdd2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/14-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "14-10-2026"
+                }
+              },
+              {
+                "id": "2e8fe19e6d626964",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "200 FUERTE/♠Read/BASE READ.base",
+                    "viewName": "BIBLIOTECA"
+                  },
+                  "icon": "lucide-layout-grid",
+                  "title": "BASE READ"
+                }
+              },
+              {
+                "id": "e48b3136aa934cc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IA. A Modern Approach (Artificial Intelligence. A modern approach).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IA. A Modern Approach (Artificial Intelligence. A modern approach)"
+                }
+              },
+              {
+                "id": "576ad2ddf78e20f2",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Siscom/10 About/Kanban - Siscom.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Siscom"
+                }
+              },
+              {
+                "id": "1c3f97187af08ca6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "VPN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "VPN"
+                }
+              },
+              {
+                "id": "72a83b99debdd543",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/Kanban - IA.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - IA"
+                }
+              },
+              {
+                "id": "95d5f9ff98ce0d49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/15-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "15-10-2026"
+                }
+              },
+              {
+                "id": "918feb2037cd4e0b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Relato de Diegod.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Relato de Diegod"
                 }
               }
-            ]
+            ],
+            "currentTab": 19
           }
         ],
         "direction": "vertical"
@@ -1733,10 +2099,12 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": true
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-folder-closed",
-                  "title": "Explorador de archivos"
+                  "title": "Files"
                 }
               },
               {
@@ -1745,7 +2113,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "jkfqf8",
+                    "query": "venv",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -1767,7 +2135,10 @@
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {},
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
                   "icon": "lucide-bookmark",
                   "title": "Bookmarks"
                 }
@@ -1779,7 +2150,7 @@
                   "type": "recent-files",
                   "state": {},
                   "icon": "clock",
-                  "title": "Recent Files"
+                  "title": "Recent files"
                 }
               },
               {
@@ -1792,8 +2163,7 @@
                   "title": "Timer"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -1807,39 +2177,8 @@
           {
             "id": "a06a396bdeaa04bb",
             "type": "tabs",
+            "dimension": 22.222222222222225,
             "children": [
-              {
-                "id": "1491f040291c2507",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/21-04-2026.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Enlaces entrantes de 21-04-2026"
-                }
-              },
-              {
-                "id": "6020cbd1dcb43896",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links"
-                }
-              },
               {
                 "id": "a18effb49b60c62c",
                 "type": "leaf",
@@ -1870,18 +2209,6 @@
                 }
               },
               {
-                "id": "f8972c5ebf1edc80",
-                "type": "leaf",
-                "state": {
-                  "type": "footnotes",
-                  "state": {
-                    "file": "Previo 1.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "footnotes"
-                }
-              },
-              {
                 "id": "4931ccdc0a338970",
                 "type": "leaf",
                 "state": {
@@ -1906,21 +2233,55 @@
                   "icon": "lucide-info",
                   "title": "File properties for SO - NOTAS DE SESIÓN"
                 }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/15-10-2026.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
               }
-            ]
+            ],
+            "currentTab": 5
           },
           {
-            "id": "87480439668b36d4",
+            "id": "175ad40cb450a89d",
             "type": "tabs",
+            "dimension": 44.44444444444445,
             "children": [
               {
-                "id": "593499948cc070d5",
+                "id": "588bf362fb826377",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
                   "state": {},
                   "icon": "lucide-file",
-                  "title": "Nueva pestaña"
+                  "title": "New tab"
                 }
               }
             ]
@@ -1928,6 +2289,7 @@
           {
             "id": "078c8ece9e289e0e",
             "type": "tabs",
+            "dimension": 33.333333333333336,
             "children": [
               {
                 "id": "697f74f4e340dc50",
@@ -1948,14 +2310,15 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "switcher:Abrir selector rápido": false,
-          "graph:Abrir vista gráfica": false,
-          "canvas:Crear nuevo lienzo": false,
-          "daily-notes:Abrir la nota de hoy": false,
-          "templates:Insertar plantilla": false,
-          "command-palette:Abrir paleta de comandos": false,
-          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-          "bases:Crear nueva base": false,
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "homepage:Open homepage": false,
           "obsidian-kanban:Create new board": false,
@@ -1963,20 +2326,20 @@
           "templater-obsidian:Templater": false,
           "obsidian-excalidraw-plugin:New drawing": false,
           "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
           "periodic-notes:Open today": false
         }
       },
-      "active": "732fa0b9535df5dd",
-      "mtime": "2026-04-21T04:31:08-06:00",
+      "active": "95d5f9ff98ce0d49",
+      "mtime": "2026-10-15T19:17:41-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "400 TODO",
           "400 TODO/410 GB",
           "400 TODO/410 GB/♠Great Binnacle",
           "400 TODO/410 GB/♠Great Binnacle/Sesiones",
-          "400 TODO/410 GB/♠Great Binnacle/Sesiones/Anexos",
-          "500 PROC",
-          "500 PROC/510 About"
+          "Sobre el Cluster y Slurm",
+          "Sobre el Cluster y Slurm/Anexos"
         ]
       }
     },
@@ -1986,135 +2349,16 @@
         "type": "split",
         "children": [
           {
-            "id": "906bd0b0fbab33d3",
-            "type": "split",
-            "dimension": 66.25964010282776,
-            "children": [
-              {
-                "id": "a2ae72a7a010dc43",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "fd495b147fdf5717",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "ACADEMIC/Servicio Social/10 About/Servicio Social (UNI).md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "Servicio Social (UNI)"
-                    }
-                  },
-                  {
-                    "id": "ed0e2fec2d24790f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "ACADEMIC/Servicio Social/30 Sesiones/SSI S6 Bienvenida PRO.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "SSI S6 Bienvenida PRO"
-                    }
-                  },
-                  {
-                    "id": "1916d646b1f9658b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "ACADEMIC/Servicio Social/30 Sesiones/SSI S4S1.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "icon": "lucide-file",
-                      "title": "SSI S4S1"
-                    }
-                  }
-                ],
-                "currentTab": 2
-              },
-              {
-                "id": "5fb56032e6e19bb5",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "35935c1639d0a081",
-                    "type": "leaf",
-                    "state": {
-                      "type": "kanban",
-                      "state": {
-                        "file": "ACADEMIC/Servicio Social/10 About/Kanban - loco servicio SSI.md",
-                        "kanbanViewState": {
-                          "kanban-plugin": "board",
-                          "list-collapse": [
-                            null,
-                            false,
-                            null,
-                            null,
-                            false,
-                            false,
-                            false,
-                            false
-                          ]
-                        }
-                      },
-                      "icon": "lucide-trello",
-                      "title": "Kanban - loco servicio SSI"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "b7293f5652e602d1",
+            "id": "a2ae72a7a010dc43",
             "type": "tabs",
-            "dimension": 33.74035989717223,
             "children": [
               {
-                "id": "c391a66ac7921926",
+                "id": "12fe937a5ac2182d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ACADEMIC/Servicio Social/30 Sesiones/SSI S13S1.md",
+                    "file": "600 CALENDAR/Reunión INSAR 30-08-2026.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -2129,10 +2373,68 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "SSI S13S1"
+                  "title": "Reunión INSAR 30-08-2026"
+                }
+              },
+              {
+                "id": "538daaf9675d6c9d",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/Servicio Social/10 About/Kanban - SSI.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        true,
+                        null,
+                        false,
+                        true,
+                        null,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - SSI"
+                }
+              },
+              {
+                "id": "0f68f9fc8f52e7d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/Servicio Social/10 About/Servicio Social (UNI).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Servicio Social (UNI)"
+                }
+              },
+              {
+                "id": "9e40f1912455c619",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/Trabajo principal del InSAR.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Trabajo principal del InSAR"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -2152,10 +2454,12 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": true
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-folder-closed",
-                  "title": "Explorador de archivos"
+                  "title": "Files"
                 }
               },
               {
@@ -2234,7 +2538,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "ACADEMIC/Servicio Social/30 Sesiones/SSI S13S1.md",
+                    "file": "600 CALENDAR/Reunión INSAR 30-08-2026.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2244,7 +2548,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Enlaces entrantes de SSI S13S1"
+                  "title": "Backlinks"
                 }
               },
               {
@@ -2341,7 +2645,7 @@
                   "type": "empty",
                   "state": {},
                   "icon": "lucide-file",
-                  "title": "Nueva pestaña"
+                  "title": "New tab"
                 }
               }
             ]
@@ -2365,18 +2669,21 @@
           }
         ],
         "direction": "horizontal",
-        "width": 454.5
+        "width": 454.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
-          "switcher:Abrir selector rápido": false,
-          "graph:Abrir vista gráfica": false,
-          "canvas:Crear nuevo lienzo": false,
-          "daily-notes:Abrir la nota de hoy": false,
-          "templates:Insertar plantilla": false,
-          "command-palette:Abrir paleta de comandos": false,
-          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-          "bases:Crear nueva base": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "homepage:Open homepage": false,
           "obsidian-kanban:Create new board": false,
@@ -2387,8 +2694,8 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "c391a66ac7921926",
-      "mtime": "2026-07-13T12:16:46-06:00",
+      "active": "9e40f1912455c619",
+      "mtime": "2026-09-17T17:52:40-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "400 TODO",
@@ -2407,16 +2714,16 @@
         "type": "split",
         "children": [
           {
-            "id": "b6cd260480171a23",
+            "id": "78364c1da40aba38",
             "type": "tabs",
             "children": [
               {
-                "id": "851b75f284e499e5",
+                "id": "17e207ceb4238ed3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/19-05-2026.md",
+                    "file": "800 TUNEL/- ( F ) - (HOMEPAGE).md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -2431,31 +2738,19 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "19-05-2026"
+                  "title": "- ( F ) - (HOMEPAGE)"
                 }
               },
               {
-                "id": "d77c95ffe5d8a2f4",
+                "id": "0b9d116e1fb76d67",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "release-notes",
                   "state": {
-                    "file": "400 TODO/440 XCHALONS/ESCALÓN UNO.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
+                    "currentVersion": "1.13.4"
                   },
-                  "icon": "lucide-file",
-                  "title": "ESCALÓN UNO"
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.13.4"
                 }
               }
             ]
@@ -2470,6 +2765,7 @@
           {
             "id": "0e63115031220b50",
             "type": "tabs",
+            "dimension": 51.98675496688742,
             "children": [
               {
                 "id": "8652c2e00cd996be",
@@ -2478,7 +2774,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": true
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -2490,7 +2788,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "reincorporar",
+                    "query": "1686",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -2498,7 +2796,7 @@
                     "sortOrder": "alphabetical"
                   },
                   "icon": "lucide-search",
-                  "title": "Search"
+                  "title": "Buscar"
                 }
               }
             ],
@@ -2507,15 +2805,19 @@
           {
             "id": "a856e70b7bb5c69f",
             "type": "tabs",
+            "dimension": 48.01324503311258,
             "children": [
               {
                 "id": "8635cb302470e2ae",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {},
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
                   "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
+                  "title": "Marcadores"
                 }
               },
               {
@@ -2543,7 +2845,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 306.5,
+        "width": 310.51103591918945,
         "collapsed": true
       },
       "right": {
@@ -2553,7 +2855,7 @@
           {
             "id": "a06a396bdeaa04bb",
             "type": "tabs",
-            "dimension": 22.222222222222225,
+            "dimension": 32.34984193888303,
             "children": [
               {
                 "id": "1491f040291c2507",
@@ -2561,7 +2863,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/18-05-2026.md",
+                    "file": "♠A-T Lab de Siscom.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2571,7 +2873,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for 18-05-2026"
+                  "title": "Enlaces entrantes"
                 }
               },
               {
@@ -2580,11 +2882,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "♠A-T Lab de Siscom.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links"
+                  "title": "Enlaces salientes"
                 }
               },
               {
@@ -2624,8 +2927,8 @@
                   "state": {
                     "file": "Previo 1.md"
                   },
-                  "icon": "lucide-file-signature",
-                  "title": "Footnotes"
+                  "icon": "lucide-ghost",
+                  "title": "footnotes"
                 }
               },
               {
@@ -2659,7 +2962,7 @@
           {
             "id": "175ad40cb450a89d",
             "type": "tabs",
-            "dimension": 44.44444444444445,
+            "dimension": 38.25079030558483,
             "children": [
               {
                 "id": "588bf362fb826377",
@@ -2676,7 +2979,7 @@
           {
             "id": "078c8ece9e289e0e",
             "type": "tabs",
-            "dimension": 33.333333333333336,
+            "dimension": 29.39936775553214,
             "children": [
               {
                 "id": "697f74f4e340dc50",
@@ -2704,6 +3007,9 @@
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
           "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "homepage:Open homepage": false,
           "obsidian-kanban:Create new board": false,
@@ -2711,17 +3017,32 @@
           "templater-obsidian:Templater": false,
           "obsidian-excalidraw-plugin:New drawing": false,
           "obsidian-advanced-slides:Show Slide Preview": false,
-          "workspaces:Manage workspace layouts": false,
           "periodic-notes:Open today": false
         }
       },
-      "active": "851b75f284e499e5",
-      "mtime": "2026-05-19T01:00:35-06:00",
+      "active": "17e207ceb4238ed3",
+      "mtime": "2026-10-06T20:04:11-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "400 TODO",
-          "400 TODO/430 KANBANS",
-          "400 TODO/430 KANBANS/431 WX"
+          "ACADEMIC",
+          "ACADEMIC/5 ° Semestre",
+          "ACADEMIC/5 ° Semestre/Señales y Sistemas (SyS)",
+          "ACADEMIC/5 ° Semestre/Señales y Sistemas (SyS)/40 Legend",
+          "ACADEMIC/6° Semestre",
+          "ACADEMIC/6° Semestre/Circuitos Electricos",
+          "ACADEMIC/6° Semestre/Circuitos Electricos/10 About",
+          "ACADEMIC/6° Semestre/Circuitos Electricos/40 Legend",
+          "ACADEMIC/6° Semestre/Circuitos Electricos/Lab Circuitos",
+          "ACADEMIC/6° Semestre/Circuitos Electricos/Lab Circuitos/10 About",
+          "ACADEMIC/6° Semestre/DDM",
+          "ACADEMIC/6° Semestre/DDM/40 Legend",
+          "ACADEMIC/7° Semestre",
+          "ACADEMIC/7° Semestre/Siscom",
+          "ACADEMIC/7° Semestre/Siscom/10 About",
+          "ACADEMIC/7° Semestre/Siscom/40 Legend",
+          "ACADEMIC/110 About",
+          "Calendar config notes",
+          "Templatesss"
         ]
       }
     },
@@ -3191,7 +3512,3349 @@
           "Anexos"
         ]
       }
+    },
+    "slurm": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "a2ae72a7a010dc43",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35935c1639d0a081",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sobre el Cluster y Slurm/Manejo de Slurm.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Manejo de Slurm"
+                }
+              },
+              {
+                "id": "c954f682a93e2fc6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Como sacar a un nodo del estado maint.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Como sacar a un nodo del estado maint"
+                }
+              },
+              {
+                "id": "7d041a235cbe55e9",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "gato",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "1491f040291c2507",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Sobre el Cluster y Slurm/Manual sobre el Cluster del InSAR lab y Slurm.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "6020cbd1dcb43896",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "f8972c5ebf1edc80",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Previo 1.md"
+                  },
+                  "icon": "lucide-ghost",
+                  "title": "footnotes"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              }
+            ]
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "c954f682a93e2fc6",
+      "mtime": "2026-10-06T20:34:52-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    },
+    "SU 6": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4cbf977b68d5e726",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ca6bf9a05c4f11b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "800 TUNEL/- ( F ) - (HOMEPAGE).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "- ( F ) - (HOMEPAGE)"
+                }
+              },
+              {
+                "id": "1387dc804df6223f",
+                "type": "leaf",
+                "state": {
+                  "type": "bases",
+                  "state": {
+                    "file": "100 ACADEMIC/110 About/SUPER UNIVERSITARIO.base",
+                    "viewName": "SU -6-"
+                  },
+                  "icon": "lucide-layout-grid",
+                  "title": "SUPER UNIVERSITARIO"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Pendiente",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1491f040291c2507",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "400 TODO/420 BINNACLES/--BIN-- {W08}.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "6020cbd1dcb43896",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "f8972c5ebf1edc80",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Previo 1.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              }
+            ]
+          },
+          {
+            "id": "87480439668b36d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "593499948cc070d5",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "1387dc804df6223f",
+      "mtime": "2026-09-12T22:03:26-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "ACADEMIC",
+          "ACADEMIC/6° Semestre",
+          "ACADEMIC/6° Semestre/Circuitos Electricos",
+          "ACADEMIC/6° Semestre/Circuitos Electricos/40 Legend"
+        ]
+      }
+    },
+    "IA": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f7becdef3f2379f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c18188d26a0504a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "♠A-T Artificial Intelligence (IA) (AI)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "RFC",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "c18188d26a0504a2",
+      "mtime": "2026-10-05T17:02:48-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "100 ACADEMIC",
+          "100 ACADEMIC/7° Semestre",
+          "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)",
+          "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/30 Sesiones",
+          "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/30 Sesiones/Lab 2",
+          "Sobre el Cluster y Slurm"
+        ]
+      }
+    },
+    "SSI": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "a05b9f370fd78d5c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e436a804591e805",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "800 TUNEL/- ( F ) - (HOMEPAGE).md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "- ( F ) - (HOMEPAGE)"
+                }
+              },
+              {
+                "id": "106f7e828a484855",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "600 CALENDAR/Avance en el Fuerte {W38}.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Avance en el Fuerte {W38}"
+                }
+              },
+              {
+                "id": "ebee9f6270777ae0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/17-09-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "17-09-2026"
+                }
+              },
+              {
+                "id": "6d56fafb70463a32",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/ERR. LINUX - WARNING. UNPROTECTED PRIVATE KEY FILE.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ERR. LINUX - WARNING. UNPROTECTED PRIVATE KEY FILE"
+                }
+              },
+              {
+                "id": "eab63b7face62b9c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sobre el Cluster y Slurm/Uso de Clúster ADMIN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Uso de Clúster ADMIN"
+                }
+              },
+              {
+                "id": "510f51e63a45446e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "rm rf minsar y insarlab.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "rm rf minsar y insarlab"
+                }
+              },
+              {
+                "id": "8ddc95445aa4df94",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/Servicio Social/10 About/Kanban - SSI.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        true,
+                        null,
+                        false,
+                        true,
+                        null,
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        true,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - SSI"
+                }
+              },
+              {
+                "id": "a8b0af9b417cfab9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Máscara.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Máscara"
+                }
+              },
+              {
+                "id": "5e3eb16aa2a060d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/Servicio Social/SSI - NOTAS DE SESIÓN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SSI - NOTAS DE SESIÓN"
+                }
+              }
+            ],
+            "currentTab": 8
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "RFC",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "5e3eb16aa2a060d3",
+      "mtime": "2026-10-13T23:23:27-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "100 ACADEMIC",
+          "100 ACADEMIC/7° Semestre",
+          "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)",
+          "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/40 Legend"
+        ]
+      }
+    },
+    "SISCOM": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "574dbe69245079f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8d23d4ca9dd440a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Siscom/40 Legend/2. Señales y sistema en tiempo y frecuencia.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2. Señales y sistema en tiempo y frecuencia"
+                }
+              },
+              {
+                "id": "95756863ab14bbd7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Siscom/40 Legend/1. Fundamentos de los sistemas de comunicaciones.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1. Fundamentos de los sistemas de comunicaciones"
+                }
+              },
+              {
+                "id": "663bd6122c90a594",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SISCOM - Examen 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SISCOM - Examen 1"
+                }
+              },
+              {
+                "id": "99ee874894dc0bb8",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Siscom/10 About/Kanban - Siscom.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Siscom"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#NEXTS",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "1491f040291c2507",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/26-09-2026.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "6020cbd1dcb43896",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "200 FUERTE/Principios.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "f8972c5ebf1edc80",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Previo 1.md"
+                  },
+                  "icon": "lucide-ghost",
+                  "title": "footnotes"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "d2f6965c105ae549",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw-sidepanel",
+                  "state": {},
+                  "icon": "excalidraw-icon",
+                  "title": "Excalidraw Sidepanel"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "f8d23d4ca9dd440a",
+      "mtime": "2026-09-30T18:21:53-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "400 TODO",
+          "400 TODO/410 GB",
+          "400 TODO/410 GB/♠Great Binnacle",
+          "400 TODO/410 GB/♠Great Binnacle/Sesiones",
+          "400 TODO/430 KANBANS",
+          "Sobre el Cluster y Slurm",
+          "Sobre el Cluster y Slurm/Manual del Administrador"
+        ]
+      }
+    },
+    "FIN": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c200a092ac81bef",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b49f6ad359fc3f60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Finanzas/40 Legend/Finanzas - NOTAS DE SESIÓN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Finanzas - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "8ce0a2202b7565c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Finanzas/40 Legend/Lg - Finanzas.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lg - Finanzas"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "dimension": 51.98675496688742,
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:FORMULARIUM",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Buscar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "dimension": 48.01324503311258,
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Marcadores"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 310.51103591918945,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 32.34984193888303,
+            "children": [
+              {
+                "id": "1491f040291c2507",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/30-09-2026.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "6020cbd1dcb43896",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "♠A-T Lab de Siscom.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Enlaces salientes"
+                }
+              },
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "f8972c5ebf1edc80",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "Previo 1.md"
+                  },
+                  "icon": "lucide-ghost",
+                  "title": "footnotes"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              }
+            ]
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 38.25079030558483,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 29.39936775553214,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "workspaces:Manage workspace layouts": false,
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "8ce0a2202b7565c1",
+      "mtime": "2026-10-01T09:19:38-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "400 TODO",
+          "400 TODO/410 GB",
+          "400 TODO/410 GB/♠Great Binnacle",
+          "400 TODO/410 GB/♠Great Binnacle/Sesiones"
+        ]
+      }
+    },
+    "VLSI": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f7becdef3f2379f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "832c9a5eee4b8742",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/VLSI/Lab VLSI/10 About/♠A-T Lab VLSI.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "♠A-T Lab VLSI"
+                }
+              },
+              {
+                "id": "6ce202a094850184",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/VLSI/40 Legend/Lg - VLSI.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lg - VLSI"
+                }
+              },
+              {
+                "id": "fdf41b79e890d192",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/VLSI/10 About/Kanban - VLSI.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - VLSI"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "NVMe",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "fdf41b79e890d192",
+      "mtime": "2026-10-08T05:15:16-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "200 FUERTE",
+          "400 TODO",
+          "400 TODO/410 GB",
+          "400 TODO/410 GB/♠Great Binnacle",
+          "400 TODO/410 GB/♠Great Binnacle/Sesiones"
+        ]
+      }
+    },
+    "COMPIS": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f7becdef3f2379f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc4d2eddc572395f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/♠A-T Compiladores.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "♠A-T Compiladores"
+                }
+              },
+              {
+                "id": "5e7b29e85e63fa88",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/40 Legend/Lg - Compiladores.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lg - Compiladores"
+                }
+              },
+              {
+                "id": "d07fa6d1912156cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/40 Legend/Compiladores - NOTAS DE SESIÓN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Compiladores - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "f9af811586676154",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "NVMe",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/10 About/♠A-T Artificial Intelligence (IA) (AI).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "f9af811586676154",
+      "mtime": "2026-10-08T05:15:57-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "200 FUERTE",
+          "400 TODO",
+          "400 TODO/410 GB",
+          "400 TODO/410 GB/♠Great Binnacle",
+          "400 TODO/410 GB/♠Great Binnacle/Sesiones"
+        ]
+      }
+    },
+    "LITE": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f7becdef3f2379f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "177a8648a79542de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/40 Legend/AI - NOTAS DE SESIÓN.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "abe82865d735772f",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - ENTHRALL.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - ENTHRALL"
+                }
+              },
+              {
+                "id": "9cdeef4f6698a539",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/Cuando caiga la última jacaranda (Buscando mi identidad).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cuando caiga la última jacaranda (Buscando mi identidad)"
+                }
+              },
+              {
+                "id": "fd0242bfbf85395b",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - Sanando el Alma - Consolidación del Capítulo 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kanban - Sanando el Alma - Consolidación del Capítulo 1"
+                }
+              },
+              {
+                "id": "b26e0b4f5c5055b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/13-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13-10-2026"
+                }
+              },
+              {
+                "id": "60e884b9ede16b36",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              },
+              {
+                "id": "d3816e0ce1d09e98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Artificial Intelligence (IA, AI)/30 Sesiones/Lab 2/Lab 2. Search Algorithms.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lab 2. Search Algorithms"
+                }
+              },
+              {
+                "id": "2252df4091e06dc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 TODO/410 GB/♠Great Binnacle/Sesiones/13-10-2026.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "13-10-2026"
+                }
+              },
+              {
+                "id": "1740ae0dde448277",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "800 TUNEL/- ( F ) - (HOMEPAGE).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "- ( F ) - (HOMEPAGE)"
+                }
+              },
+              {
+                "id": "3e6232e2b4224b09",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/♠Academic.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "♠Academic"
+                }
+              },
+              {
+                "id": "b4ab7d243d1e3605",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "100 ACADEMIC/7° Semestre/Compiladores/10 About/Kanban - Compiladores.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - Compiladores"
+                }
+              },
+              {
+                "id": "2fb9658fb521b932",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban -  Programación.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        true,
+                        null,
+                        false,
+                        null,
+                        null,
+                        false,
+                        null,
+                        true,
+                        null,
+                        false,
+                        null,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban -  Programación"
+                }
+              },
+              {
+                "id": "a77ac6442a2c3e14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/TRINITY_ELEMENTS/-(°)MODELOS/►Proceso creativo - Proyectos artísticos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "►Proceso creativo - Proyectos artísticos"
+                }
+              },
+              {
+                "id": "f7245c600cc7c492",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/TRINITY_ELEMENTS/-(°)MODELOS/►Proceso creativo - Proyectos artísticos.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "►Proceso creativo - Proyectos artísticos"
+                }
+              }
+            ],
+            "currentTab": 13
+          },
+          {
+            "id": "c751a2088eacd1f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb07f79f408c7dad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ETH - Laberinto de la soledad.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ETH - Laberinto de la soledad"
+                }
+              },
+              {
+                "id": "103ff67596be76d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "600 CALENDAR/Avance en el Fuerte {W41}.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Avance en el Fuerte {W41}"
+                }
+              },
+              {
+                "id": "855e8a9572283651",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "600 CALENDAR/Anexos/IMG - Identidad de Fernando Samuel.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "IMG - Identidad de Fernando Samuel"
+                }
+              },
+              {
+                "id": "935df71bd067b6bb",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "600 CALENDAR/Anexos/IMG - Antimáquina formidable.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "IMG - Antimáquina formidable"
+                }
+              },
+              {
+                "id": "aecd3fd619eb04c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "200 FUERTE/Principios (Quien soy, Identidad).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Principios (Quien soy, Identidad)"
+                }
+              },
+              {
+                "id": "fd88e2fc8d3b8e4c",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "400 TODO/430 KANBANS/Kanban - ♠WiD.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        null,
+                        null,
+                        false,
+                        null,
+                        null
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Kanban - ♠WiD"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e772eb7bc504067",
+        "type": "split",
+        "children": [
+          {
+            "id": "0e63115031220b50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8652c2e00cd996be",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "01df9646113b3b03",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "venv",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a856e70b7bb5c69f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8635cb302470e2ae",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "8b4d21f10f9c80d8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent files"
+                }
+              },
+              {
+                "id": "036e0061a4e77de9",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "09777d773c243dae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a06a396bdeaa04bb",
+            "type": "tabs",
+            "dimension": 22.222222222222225,
+            "children": [
+              {
+                "id": "a18effb49b60c62c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d547e49c958f086f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "4931ccdc0a338970",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c1a038c9e8dd3b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "ACADEMIC/6° Semestre/Sistemas Operativos (SO)/10 About/SO - NOTAS DE SESIÓN.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for SO - NOTAS DE SESIÓN"
+                }
+              },
+              {
+                "id": "2b7d17250ba97760",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "9e0038cbdd5b71e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "200 FUERTE/Principios (Quien soy, Identidad).md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "175ad40cb450a89d",
+            "type": "tabs",
+            "dimension": 44.44444444444445,
+            "children": [
+              {
+                "id": "588bf362fb826377",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "078c8ece9e289e0e",
+            "type": "tabs",
+            "dimension": 33.333333333333336,
+            "children": [
+              {
+                "id": "697f74f4e340dc50",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 454.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:Start/stop recording": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "obsidian-kanban:Create new board": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "aecd3fd619eb04c4",
+      "mtime": "2026-10-14T01:57:27-06:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "200 FUERTE",
+          "200 FUERTE/♠BrainOut",
+          "200 FUERTE/♠BrainOut/♠BO - ☼First Rise",
+          "200 FUERTE/♠BrainOut/♠BO - ☼First Rise/♠BO - Matemáticas Pre-Universitarias",
+          "400 TODO",
+          "400 TODO/410 GB",
+          "400 TODO/410 GB/♠Great Binnacle",
+          "400 TODO/410 GB/♠Great Binnacle/Sesiones",
+          "400 TODO/430 KANBANS"
+        ]
+      }
     }
   },
-  "active": "DECHTECH"
+  "active": "FIN"
 }

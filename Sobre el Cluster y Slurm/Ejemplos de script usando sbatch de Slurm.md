@@ -61,3 +61,6 @@ Para enviar este trabajo a la cola, ejecutarías en la terminal del nodo maestro
 ```bash
 sbatch gpu_test.sh
 ```
+
+> [!info]
+> Más casos (multihilo, nodo específico, arreglos, dependencias) en las [[Plantillas de Slurm]].

@@ -1,8 +1,14 @@
+---
+title: Estados de un Job (Job State Codes)
+tags:
+  - slurm
+---
 
 | **Código Completo** | **Abreviatura** | **Significado**                                                                                                                            |
 | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **PENDING**         | `PD`            | El trabajo está en la cola, esperando a que los recursos solicitados se liberen o que se cumpla su nivel de prioridad.                     |
 | **RUNNING**         | `R`             | El trabajo tiene los recursos asignados y se está ejecutando actualmente en el nodo de cómputo.                                            |
+| **COMPLETING**      | `CG`            | El trabajo terminó y Slurm está limpiando sus procesos en el nodo. Suele durar segundos.                                                   |
 | **COMPLETED**       | `CD`            | El trabajo terminó exitosamente. Todos los comandos del script se ejecutaron sin devolver errores (Exit Code 0).                           |
 | **FAILED**          | `F`             | El trabajo terminó de forma prematura porque ocurrió un error en el código ejecutado (Exit Code distinto de 0).                            |
 | **CANCELLED**       | `CA`            | El trabajo fue abortado manualmente por el usuario (usando `scancel`) o por el administrador del sistema.                                  |

@@ -24,7 +24,7 @@ Para utilizar la verdadera potencia del **InSAR lab**, debemos cambiar nuestro e
 
 En lugar de interactuar directamente con el hardware, empaquetaremos nuestras instrucciones en lo que llamaremos un **trabajo** o **job**. **Un trabajo no es más que un archivo de texto** (comúnmente un script de ``bash`` con extensión `.sh`) 
 
->Ejemplo de nombre del archivo situado en [[Logica de trabajo en insarlab#Sobre el almacenamiento (directorio propio local)|tu carpeta local]]
+>Ejemplo de nombre del archivo situado en [[Logica de trabajo en insarlab#Sobre el almacenamiento|tu carpeta personal]]
 ```bash
 ~/prueba.sh
 ```
@@ -90,17 +90,24 @@ El sistema mantendrá tu trabajo en un estado de espera (*pendiente*) hasta que 
 Por ejemplo, si necesitas una cantidad específica de poder de cómputo para un procesamiento en paralelo, tus directivas podrían verse así:
 
 ```SHELL
-#SBATCH --ntasks=4        # Solicita 4 núcleos de procesamiento
-#SBATCH --mem=32G         # Solicita 32 Gigabytes de memoria RAM
+#SBATCH --ntasks=1          # Un programa…
+#SBATCH --cpus-per-task=4   # …que usa 4 núcleos de procesamiento
+#SBATCH --mem=32G           # Solicita 32 Gigabytes de memoria RAM
 ```
 
 En este caso, Slurm buscará en la partición asignada algún nodo que tenga al menos 4 núcleos y 32 GB de memoria libres. Si no los hay, tu trabajo esperará en la cola.
 
+> [!warning] `--ntasks` no es "número de núcleos"
+> `--ntasks` es el número de **procesos independientes** (MPI). Para un programa de Python, ISCE2 o MintPy que usa varios hilos, lo correcto es `--ntasks=1 --cpus-per-task=N`. Ver [[Archivo de trabajo y directivas SBATCH]].
+
 Por otro lado, habrá ocasiones en las que necesites que tu trabajo corra en un equipo muy particular, sin importar si otros están vacíos. Para indicarle a Slurm que se encole directamente hacia un nodo específico, usarías:
 
 ```shell
-#SBATCH --nodelist=node2  # Fuerza a que el trabajo solo se ejecute en el nodo 2
+#SBATCH --nodelist=node4  # Fuerza a que el trabajo solo se ejecute en el nodo 4
 ```
+
+> [!tip] ¿Qué nodo me conviene?
+> Revisa [[Grupos de nodos y particiones]] para elegir partición y nodo según lo que necesita tu trabajo, y cuidado: `--nodelist` con **varios** nodos los pide **todos a la vez**.
 
 ### El sistema de prioridad de Slurm
 
@@ -113,7 +120,7 @@ Esta prioridad sube o baja dependiendo de varios factores configurados en el sis
 3. **Uso justo (FairShare):** Slurm lleva un registro histórico. Si un usuario ha acaparado el clúster durante toda la semana, el sistema le dará menor prioridad a sus trabajos nuevos para permitir que otros miembros del InSAR lab, que no han usado el clúster recientemente, tengan la oportunidad de ejecutar sus proyectos.
 
 > [!success]
-> Una vez entiendas lo esencial del funcionamiento del cluster, puedes revisar el [[Manejo de Slurm]]
+> Una vez entiendas lo esencial del funcionamiento del cluster, puedes revisar el [[Manejo de Slurm]] o ir directo a las [[Plantillas de Slurm]].
 
 
 [^1]: [[Cluster Computing#^DefinicionNodoMaestro|Definición de nodo maestro]]

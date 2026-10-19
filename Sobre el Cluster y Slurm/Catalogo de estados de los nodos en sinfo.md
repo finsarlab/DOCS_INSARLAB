@@ -1,15 +1,59 @@
 ---
 title: Catálogo de estados de los nodos en sinfo
+tags:
+  - slurm
+  - nodos
 ---
-Los nodos del clúster transitan por diferentes estados dependiendo de la carga de trabajo asignada por los usuarios o de las condiciones de su propio hardware.
+Los nodos del clúster pasan por distintos estados según la carga de trabajo de los usuarios o la condición de su propio hardware. El estado aparece en la columna `STATE` de [[Comando sinfo|sinfo]].
 
-A continuación, se detallan los estados más importantes que se pueden presentar en el clúster:
+## Estados en los que el nodo SÍ puede recibir trabajos
 
-|**Estado**|**Significado Técnico**|**Contexto en el InSAR lab**|
+| Estado | Significado | ¿Qué hago como usuario? |
 |---|---|---|
-|**`idle`**|El nodo está completamente libre.|No hay ningún trabajo ejecutándose en él. Todos sus núcleos de CPU y su memoria RAM están disponibles para recibir tareas de inmediato.|
-|**`mix`** _(Mixed)_|El nodo está parcialmente ocupado.|Significa que algunos núcleos (CPUs) o porciones de memoria RAM están siendo usados por el trabajo de un usuario, pero el equipo todavía tiene recursos sobrantes para aceptar más trabajos en paralelo.|
-|**`alloc`** _(Allocated)_|El nodo está completamente ocupado.|Todos los recursos del equipo (procesadores, memoria o GPUs) han sido reservados en su totalidad. Cualquier trabajo nuevo enviado a este nodo se quedará esperando en la cola.|
-|**`down`**|El nodo está fuera de servicio.|El equipo no está disponible para ejecutar tareas debido a una falla crítica de hardware, un reinicio o una intervención del administrador del sistema.|
-|**`drain`** _(Draining)_|El nodo está en proceso de vaciado.|El nodo está terminando de ejecutar los trabajos que ya tenía asignados, pero Slurm tiene prohibido asignarle nuevas tareas. Suele activarse de forma manual antes de un mantenimiento programado.|
-|**`maint`** _(Maintenance)_|El nodo se encuentra en una reserva de mantenimiento.|El equipo está apartado temporalmente para tareas administrativas y solo los usuarios autorizados o administradores pueden lanzar procesos en él.|
+| **`idle`** | Completamente libre: ningún trabajo, todos sus núcleos y su memoria disponibles. | Nada. Tu trabajo arrancará de inmediato si cabe. |
+| **`mix`** _(mixed)_ | Parcialmente ocupado: algunos núcleos o parte de la memoria están en uso, pero quedan recursos libres. | Revisa cuánto queda con `sinfo -N -o "%N %C %e"`. Si tu petición cabe, arranca. |
+| **`alloc`** _(allocated)_ | Completamente ocupado: todos sus núcleos (o su memoria o GPU) están reservados. | Tu trabajo esperará con la razón `Resources`. Considera otra partición o nodo. |
+| **`comp`** _(completing)_ | Uno o más trabajos están terminando y liberando recursos. | Normalmente dura segundos. Si persiste varios minutos, avisa al admin. |
+
+## Estados en los que el nodo NO recibe trabajos nuevos
+
+| Estado | Significado | ¿Qué hago como usuario? | Admin |
+|---|---|---|---|
+| **`drng`** _(draining)_ | Termina los trabajos que ya tenía, pero **no acepta nuevos**. Normalmente es un mantenimiento programado. | No lo pidas con `--nodelist`. Usa otro nodo. | [[Recuperar nodos y servicios de Slurm\|receta drain]] |
+| **`drain`** / **`drained`** | Ya **vacío** y sin aceptar trabajos. Puede ser por mantenimiento o porque Slurm detectó un problema (`sinfo -R` dice la razón). | Igual que arriba. | [[Recuperar nodos y servicios de Slurm\|receta drain]] |
+| **`down`** | Fuera de servicio: falla, reinicio inesperado o retirado por el admin. | Avisa al admin si no hay un mantenimiento anunciado. | [[Recuperar nodos y servicios de Slurm\|receta down]] |
+| **`down*`** | Fuera de servicio y **sin responder** al master (ver sufijo `*` abajo). | Avisa al admin. Los trabajos con ese nodo en `--nodelist` quedarán en `ReqNodeNotAvail`. | [[Recuperar nodos y servicios de Slurm\|receta down*]] |
+| **`maint`** | Dentro de una **reserva de mantenimiento**. Solo los administradores pueden usarlo. | Espera al fin del mantenimiento (`scontrol show reservation`). | [[Recuperar nodos y servicios de Slurm\|mantenimiento]] |
+| **`resv`** _(reserved)_ | Reservado para ciertos usuarios o un proyecto. | Solo puedes usarlo si la reserva te incluye (`--reservation=<nombre>`). | — |
+| **`fail`** | Marcado como fallado por el admin (hardware defectuoso). | Usa otro nodo. | [[Recuperar nodos y servicios de Slurm\|receta fail]] |
+| **`inval`** _(invalid)_ | El nodo se registró con una configuración que no coincide con `slurm.conf`. | Avisa al admin. | [[Recuperar nodos y servicios de Slurm\|receta inval]] |
+| **`unk`** _(unknown)_ | Slurm aún no conoce su estado (normal unos segundos después de reiniciar el controlador). | Espera un minuto. | — |
+
+## Sufijos que pueden aparecer pegados al estado
+
+| Sufijo | Ejemplo | Significado |
+|---|---|---|
+| `*` | `down*`, `idle*` | El nodo **no responde** al master. Causas típicas: falla de red, `slurmd` caído o sistema operativo congelado. |
+| `~` | `idle~` | Apagado por ahorro de energía. |
+| `#` | `idle#` | Encendiéndose o configurándose. |
+| `!` | `idle!` | Pendiente de apagarse. |
+| `%` | `idle%` | Apagándose. |
+| `$` | `idle$` | En una reserva de mantenimiento. |
+| `@` | `mix@` | Reinicio pendiente (programado por el admin). |
+| `^` | `idle^` | Reinicio en curso. |
+| `-` | `idle-` | Reservado por el planificador para un trabajo de mayor prioridad. |
+
+> [!question] ¿Y `up`?
+> `up` **no es un estado de nodo**. Aparece en la columna `AVAIL` de `sinfo` y describe a la **partición**:
+> - `up`: acepta y arranca trabajos (lo normal).
+> - `down`: acepta trabajos en la cola, pero no los arranca.
+> - `drain`: no acepta trabajos nuevos.
+> - `inactive`: ni acepta ni arranca.
+
+> [!tip] Para saber POR QUÉ un nodo no está disponible
+> ```bash
+> sinfo -R
+> ```
+> Muestra la razón, quién la puso y cuándo.
+
+> Si algún estado no está documentado aquí, consulta la [documentación oficial de `sinfo`](https://slurm.schedmd.com/sinfo.html#SECTION_NODE-STATE-CODES).

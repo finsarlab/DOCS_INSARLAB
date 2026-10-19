@@ -1,6 +1,11 @@
 > [!done] Previamente
 > Para mandar un trabajo al cluster se debe escribir entonces un script `.sh` que ==le indique a slurm los recursos que sabes necesitará tu trabajo, y lo que hará tu trabajo== [^2].
 
+> [!tip] ¿Con prisa?
+> - Paso a paso en 10 minutos: [[Guia rapida - Tu primer trabajo en Slurm]]
+> - Scripts listos para copiar: [[Plantillas de Slurm]]
+> - Caso completo de principio a fin: [[Ejemplo de flujo de trabajo completo]]
+
 # Archivos de Salida y Error (``.out`` y ``.err``)
 
 Cuando ejecutas un programa en tu computadora personal o en el nodo maestro, estás acostumbrado a ver los resultados, las barras de progreso o los mensajes de error imprimiéndose en tiempo real en tu pantalla. Sin embargo, cuando envías un trabajo a Slurm, este se ejecuta de manera automatizada en un nodo de cómputo en el fondo (en _background_), lo que significa que no hay una terminal conectada para mostrarte esa información.
@@ -53,6 +58,7 @@ Además de `%j`, existen otras variables que puedes combinar para nombrar tus ar
 Para interactuar con el sistema de colas del clúster, Slurm nos proporciona un conjunto de herramientas de línea de comandos. A continuación, documentamos el flujo de trabajo esencial y las directivas necesarias para solicitar recursos y ejecutar tareas en el **InSAR lab**.
 
 ## `sbatch`
+> A detalle: [[Comando sbatch]] · Cómo escribir el archivo: [[Archivo de trabajo y directivas SBATCH]]
 
 El comando `sbatch` es la **herramienta principal que utilizarás**. Sirve para enviar un script de trabajo a la cola de Slurm para su futura ejecución. Cuando ejecutas este comando, Slurm lee el archivo, reserva los recursos solicitados y te devuelve un número de identificación único (Job ID).
 
@@ -68,6 +74,7 @@ Para solicitar recursos, el script de bash debe contener líneas especiales al i
 >O en su defecto, revisar [la totalidad de las directivas en la documentación oficial de slurm](https://slurm.schedmd.com/sbatch.html#SECTION_OPTIONS)
 
 ## `squeue`
+> A detalle: [[Comando squeue]]
 
 Una vez que has enviado tu trabajo con `sbatch`, querrás saber su estado. El comando `squeue` te permite visualizar la fila actual de trabajos en el clúster.
 
@@ -87,6 +94,7 @@ squeue -u <tu_usuario>
 ```
 
 ## `scancel`
+> A detalle: [[Comando scancel y scontrol]]
 
 Es completamente normal darse cuenta de que se ha cometido un error en el código fuente después de haber encolado el trabajo. Para detener la ejecución y liberar los recursos del clúster, utilizamos el comando `scancel` seguido del identificador del trabajo (**JOBID**) que nos proporcionó `sbatch` o que consultamos con `squeue`.
 
@@ -98,6 +106,7 @@ scancel 10452
 ```
 
 ## `sinfo`
+> A detalle: [[Comando sinfo]] · ¿Qué nodo elijo? [[Grupos de nodos y particiones]]
 
 El comando `sinfo` es una de las herramientas más importantes para entender el estado operativo de la infraestructura antes de enviar un trabajo. Mientras que `squeue` nos muestra el estado de las tareas de los usuarios, `sinfo` nos revela la salud y disponibilidad del hardware real del clúster.
 
@@ -142,6 +151,9 @@ Las causas más comunes para que un nodo entre en estado `down*` o similar son:
 
 Como usuario del laboratorio, ver un nodo en `down*` te indica que cualquier trabajo que requiera obligatoriamente ese equipo se mantendrá en estado pendiente (`ReqNodeNotAvail`) hasta que el servicio sea reestablecido.
 
+> [!info] Para administradores
+> Cómo diagnosticar y regresar un nodo al servicio: [[Recuperar nodos y servicios de Slurm]].
+
 
 ---
 
@@ -178,6 +190,7 @@ srun --pty /bin/bash
 Esto te transportará directamente a la terminal del nodo asignado. Cuando termines tus pruebas, simplemente escribes `exit` para liberar los recursos.
 
 ## Monitoreo Histórico y Códigos de Estado `sacct`
+> A detalle: [[Comando sacct]]
 El comando `squeue` es excelente, pero tiene una limitación: en el momento en que tu trabajo termina (ya sea exitosamente o por un error), desaparece de la cola. Si dejaste un trabajo corriendo durante la noche y al día siguiente ya no está en `squeue`, ¿cómo sabes qué ocurrió con él?
 
 Aquí entra el comando **`sacct`** (Slurm Accounting). Este comando consulta la base de datos histórica del clúster y te permite ver el estado final, el tiempo que tardó y los recursos consumidos de cualquier trabajo pasado.
@@ -238,4 +251,4 @@ Slurm no genera estos códigos; son los códigos de salida estándar del sistema
 
 [^4]: [[Uso del Cluster#Las directivas de recursos|Directivas de recursos]]
 
-[^5]: Puedes consultar la [documentación oficial](https://slurm.schedmd.com/job_reason_codes.html) para saber más sobre los Job Exit Codes
+[^5]: Puedes consultar la [documentación oficial](https://slurm.schedmd.com/job_exit_code.html) para saber más sobre los Job Exit Codes

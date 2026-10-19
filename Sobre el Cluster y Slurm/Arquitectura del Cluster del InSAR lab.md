@@ -45,4 +45,10 @@ Actualmente, el clúster está dividido en tres particiones principales a las qu
 - **n2gpu**: Partición de propósito específico destinada exclusivamente a encolar trabajos que necesiten aprovechar la tarjeta gráfica del _node2_.
 
 
+> [!warning] Detalles que conviene saber
+> - La partición por defecto `all` **incluye al master**: un trabajo sin `--partition` puede ejecutarse en el nodo coordinador. Declara siempre la partición.
+> - `node2` pertenece a `extra` **y** a `n2gpu`: si no necesitas GPU, exclúyelo (`--exclude=node2`) para no bloquear la tarjeta.
+>
+> Guía práctica para elegir: [[Grupos de nodos y particiones]].
+
 En las siguientes secciones de este manual, aprenderemos paso a paso cómo comunicarnos con Slurm para configurar y enviar nuestros trabajos a cada una de estas particiones de la manera correcta.

@@ -55,6 +55,21 @@ Aquí esta tu llave
 
 Guarda el contenido del archivo.
 
+> [!danger] Protege la llave (paso obligatorio)
+> `ssh` **se niega a usar** una llave privada que otros usuarios de tu computadora puedan leer (error `UNPROTECTED PRIVATE KEY FILE`). Ajusta sus permisos:
+>
+> **Linux / macOS**
+> ```bash
+> chmod 700 ~/.ssh
+> chmod 600 ~/.ssh/insar_key
+> ```
+> **Windows (PowerShell)**
+> ```powershell
+> icacls "$env:USERPROFILE\.ssh\insar_key" /inheritance:r /grant:r "$($env:USERNAME):(R)"
+> ```
+>
+> Además, asegúrate de que el archivo termine con un **salto de línea** después de `-----END OPENSSH PRIVATE KEY-----`; si no, `ssh` puede decir `invalid format`.
+
 ## Modificar el archivo `config` para poder ingresar bajo un *HostName*
 
 En la misma ruta (`~/.ssh/`), modificar el archivo `config` o en su defecto crearlo y escribir dentro de él:
@@ -68,7 +83,7 @@ Host <nombreHost>
 Reemplazar los valores entre `<>` por tus datos:
 - `<nombreHost>`: El nombre que se usará para ingresar mediante `ssh`, se sugiere usar: `InsarNombreUsuario`
 - `<usuario>`: Es el usuario que te proporcionó el administrador al momento de crear tu usuario
-- `<ruta de la llave>`: El nombre del archivo con tu llave, se sugirió usar `llave_insarlab`
+- `<ruta de la llave>`: El nombre del archivo con tu llave, se sugirió usar `insar_key`
 
 
 > [!example] Un ejemplo real del archivo `config`

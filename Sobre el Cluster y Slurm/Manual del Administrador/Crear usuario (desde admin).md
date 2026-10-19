@@ -1,10 +1,14 @@
+> [!warning] Método anterior (manual)
+> El procedimiento **vigente y verificado** para crear usuarios es con Ansible: [[Uso de Clúster ADMIN]]. Esta nota se conserva como referencia de lo que el *playbook* hace por dentro.
+> Nota: los nodos se llaman `node1`…`node4` (no `nodo1`); en los comandos de abajo usa `ssh node<n>`.
+
 > [!attention]
 > Las siguientes indicaciones las debe ejecutar un usuario administrador de INSARLAB
 
 Para crear un usuario $A$, y que este usuario $A$ pueda usar [[Que es Slurm|slurm]] para manejar el [[Arquitectura del Cluster del InSAR lab|cluster]], se deben seguir los siguientes pasos:
 
 - Ingresar al cluster como el usuario `admin`[^1]
-- [[#Crear al usuario]]
+- [[#Crear al usuario desde `admin`|Crear al usuario]]
 
 ---
 

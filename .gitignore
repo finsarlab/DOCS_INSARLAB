@@ -15,8 +15,8 @@
 !_IMÁGENES/**
 
 # Permitir recorrer las rutas dentro de ACADEMIC
-!ACADEMIC/
-!ACADEMIC/**
+!100 ACADEMIC/
+!100 ACADEMIC/**
 
 !200 FUERTE/
 !200 FUERTE/**
@@ -45,20 +45,38 @@
 !800 TUNEL/
 !800 TUNEL/**
 
+# Other stuff
+!Excalidraw/
+!Excalidraw/**
+
+# Scripts de Templater
+!Templater Scripts/
+!Templater Scripts/*
+
+
 !Templatesss/
 !Templatesss/**
 
+
+# Ejemplos de código (normalmente LaTeX)
+!Samples/
+!Samples/**
+
+# Configuraciones de Calendario para Cronómetro Universal - Encapsulamiento
+!Calendar config notes/
+!Calendar config notes/**
+
 # Incluir solo las carpetas que terminan exactamente en los nombres deseados
-!ACADEMIC/**/*10 About/
-!ACADEMIC/**/*10 About/**
-!ACADEMIC/**/*20 DET/
-!ACADEMIC/**/*20 DET/**
-!ACADEMIC/**/*30 Sesiones/
-!ACADEMIC/**/*30 Sesiones/**
-!ACADEMIC/**/*40 Legend/
-!ACADEMIC/**/*40 Legend/**
-!ACADEMIC/190 COLJAR/
-!ACADEMIC/190 COLJAR/**
+!100 ACADEMIC/**/*10 About/
+!100 ACADEMIC/**/*10 About/**
+!100 ACADEMIC/**/*20 DET/
+!100 ACADEMIC/**/*20 DET/**
+!100 ACADEMIC/**/*30 Sesiones/
+!100 ACADEMIC/**/*30 Sesiones/**
+!100 ACADEMIC/**/*40 Legend/
+!100 ACADEMIC/**/*40 Legend/**
+!100 ACADEMIC/190 COLJAR/
+!100 ACADEMIC/190 COLJAR/**
 
 # De nuevo si
 **/Credenciales de Git.md
