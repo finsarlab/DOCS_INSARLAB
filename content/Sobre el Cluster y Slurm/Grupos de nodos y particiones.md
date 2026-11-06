@@ -11,13 +11,13 @@ tags:
 
 ## Lo que hay en el clúster
 
-| Nodo | Particiones | CPUs | RAM aprox. | Red hacia el clúster[^1] | Perfil |
-|---|---|---|---|---|---|
-| `master` | `all` (por defecto) | 40 | ~126 GB | 10 Gb | Coordinador. **No es para cómputo pesado.** |
-| `node1` | `all` (por defecto) | 56 | ~257 GB | **10 Gb** | Alta capacidad. El mejor conectado. |
-| `node2` | `extra`, `n2gpu` | 56 | ~240 GB | 1 Gb | Alta capacidad **+ GPU NVIDIA L4** |
-| `node3` | `extra` | 24 | ~31 GB | 1 Gb | Ligero, de apoyo |
-| `node4` | `extra` | 56 | ~257 GB | 1 Gb | Alta capacidad |
+| Nodo     | Particiones         | CPUs | RAM aprox. | Red hacia el clúster[^1] | Perfil                                      |
+| -------- | ------------------- | ---- | ---------- | ------------------------ | ------------------------------------------- |
+| `master` | `all` (por defecto) | 40   | ~126 GB    | 10 Gb                    | Coordinador. **No es para cómputo pesado.** |
+| `node1`  | `all` (por defecto) | 56   | ~257 GB    | **10 Gb**                | Alta capacidad. El mejor conectado.         |
+| `node2`  | `extra`, `n2gpu`    | 56   | ~240 GB    | 1 Gb                     | Alta capacidad **+ GPU NVIDIA L4**          |
+| `node3`  | `extra`             | 24   | ~31 GB     | 1 Gb                     | Ligero, de apoyo                            |
+| `node4`  | `extra`             | 56   | ~257 GB    | 1 Gb                     | Alta capacidad                              |
 
 > [!warning] Los valores de RAM son aproximados
 > Slurm no te deja pedir la RAM "física" del equipo, sino la que tiene registrada en su configuración (`RealMemory`), que siempre es un poco menor. Antes de pedir mucha memoria, consulta el valor real:
