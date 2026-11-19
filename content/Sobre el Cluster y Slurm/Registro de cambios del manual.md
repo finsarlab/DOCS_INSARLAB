@@ -8,6 +8,13 @@ tags:
 > [!info] Para qué sirve esta nota
 > Lleva el historial de cambios del manual sobre el clúster y Slurm: qué se agregó, qué se corrigió y qué falta verificar. Agrega una sección nueva **arriba** cada vez que se haga una revisión.
 
+## 2026-11-19: Pendientes de BeeGFS cruzados con el incidente de octubre
+
+- [[BeeGFS - Pendientes por investigar]]: se cruzó con [[SSI. Como resolvimos el problema del cluster]].
+	- Se marcaron como resueltas 4 tareas: qué disco hay detrás de cada ruta, capacidad y uso (96 %), qué pasa si se reinicia `master` e incidentes conocidos.
+	- Se agregaron respuestas parciales a otras 9: versión de Rocky, servicios en `master`, arranque automático, management, rutas de datos, tipo de RAID, orden de encendido, respaldos y registros.
+	- Lo que falta en casi todas es revisar los nodos de cómputo.
+
 ## 2026-10-09: Ampliación del manual de Slurm y del Manual del Administrador
 
 ### Notas nuevas
